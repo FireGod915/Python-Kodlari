@@ -1,7 +1,7 @@
 print("Sezar Şifresi Kırma Programına Hoşgeldiniz.")
 sifresiz=input("Şifresi kırılacak metni giriniz:")
 def sifrele(metin):
-    sifrelimetin=""
+    sifrelimetin=""fhf melbkfu xqıiaığıkax öğobkzfibof yüvüh pxilkx döqüojbifpfkfw
     for harf in metin:
         asciikod=ord(harf)
         asciikod=asciikod-3
